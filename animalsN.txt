@@ -3,3 +3,6 @@ Dolphins
 Sloths
 Dogs
 Gerbils
+Lions
+Tigers
+Bears
